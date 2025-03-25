@@ -13,6 +13,10 @@ return {
     end,
   },
 
+  {
+    "ThePrimeagen/vim-be-good",
+    cmd="VimBeGood",
+  },
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
   -- 	opts = {
